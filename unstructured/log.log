@@ -1,0 +1,40 @@
+2024-11-26 14:03:58.464 [INF] DEMO: This is a test log
+2024-11-26 14:03:58.464 [INF] DEMO: This is a test log
+2024-11-26 14:03:58.464 [INF] DEMO: This is a test log
+2024-11-26 14:03:58.465 [INF] DEMO: User 9 made request to GET /api/v1/users
+2024-11-26 14:03:58.465 [INF] DEMO: User 4 made request to GET /api/v1/users
+2024-11-26 14:03:58.464 [INF] DEMO: This is a test log
+2024-11-26 14:03:58.465 [INF] DEMO: User 3 made request to GET /api/v1/users
+2024-11-26 14:03:58.464 [INF] DEMO: This is a test log
+2024-11-26 14:03:58.465 [INF] DEMO: (user_id=3): Req: GET /api/v1/users, Resp: 200 OK
+2024-11-26 14:03:58.464 [INF] DEMO: This is a test log
+2024-11-26 14:03:58.465 [INF] DEMO: (user_id=4): Req: GET /api/v1/users, Resp: 200 OK
+2024-11-26 14:03:58.465 [DBG] DEMO: User 4 just spent 0.000015400000 to open a channel
+2024-11-26 14:03:58.464 [INF] DEMO: This is a test log
+2024-11-26 14:03:58.465 [INF] DEMO: User 6 made request to GET /api/v1/users
+2024-11-26 14:03:58.465 [INF] DEMO: (user_id=6): Req: GET /api/v1/users, Resp: 200 OK
+2024-11-26 14:03:58.465 [DBG] DEMO: User 6 just spent 0.000015400000 to open a channel
+2024-11-26 14:03:58.464 [INF] DEMO: This is a test log
+2024-11-26 14:03:58.465 [INF] DEMO: User 8 made request to GET /api/v1/users
+2024-11-26 14:03:58.464 [INF] DEMO: This is a test log
+2024-11-26 14:03:58.465 [INF] DEMO: User 5 made request to GET /api/v1/users
+2024-11-26 14:03:58.465 [INF] DEMO: (user_id=5): Req: GET /api/v1/users, Resp: 200 OK
+2024-11-26 14:03:58.465 [INF] DEMO: (user_id=9): Req: GET /api/v1/users, Resp: 200 OK
+2024-11-26 14:03:58.465 [DBG] DEMO: User 9 just spent 0.000015400000 to open a channel
+2024-11-26 14:03:58.465 [INF] DEMO: User 1 made request to GET /api/v1/users
+2024-11-26 14:03:58.465 [INF] DEMO: (user_id=1): Req: GET /api/v1/users, Resp: 200 OK
+2024-11-26 14:03:58.465 [DBG] DEMO: User 1 just spent 0.000015400000 to open a channel
+2024-11-26 14:03:58.465 [INF] DEMO: User 0 made request to GET /api/v1/users
+2024-11-26 14:03:58.465 [INF] DEMO: (user_id=0): Req: GET /api/v1/users, Resp: 200 OK
+2024-11-26 14:03:58.464 [INF] DEMO: This is a test log
+2024-11-26 14:03:58.465 [INF] DEMO: User 2 made request to GET /api/v1/users
+2024-11-26 14:03:58.465 [DBG] DEMO: User 3 just spent 0.000015400000 to open a channel
+2024-11-26 14:03:58.465 [INF] DEMO: (user_id=8): Req: GET /api/v1/users, Resp: 200 OK
+2024-11-26 14:03:58.465 [INF] DEMO: User 7 made request to GET /api/v1/users
+2024-11-26 14:03:58.465 [INF] DEMO: (user_id=7): Req: GET /api/v1/users, Resp: 200 OK
+2024-11-26 14:03:58.465 [DBG] DEMO: User 7 just spent 0.000015400000 to open a channel
+2024-11-26 14:03:58.465 [DBG] DEMO: User 5 just spent 0.000015400000 to open a channel
+2024-11-26 14:03:58.465 [DBG] DEMO: User 0 just spent 0.000015400000 to open a channel
+2024-11-26 14:03:58.465 [INF] DEMO: (user_id=2): Req: GET /api/v1/users, Resp: 200 OK
+2024-11-26 14:03:58.465 [DBG] DEMO: User 2 just spent 0.000015400000 to open a channel
+2024-11-26 14:03:58.465 [DBG] DEMO: User 8 just spent 0.000015400000 to open a channel

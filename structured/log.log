@@ -1,0 +1,90 @@
+[INF] DEMO: This is a test log user_id=9
+[INF] DEMO: Request made to GET /api/v1/users user_id=9
+[INF] DEMO: This is a test log user_id=5
+[INF] DEMO: Request made to GET /api/v1/users user_id=5
+[INF] DEMO: This is a test log user_id=6
+[INF] DEMO: Request made to GET /api/v1/users user_id=6
+[INF] DEMO: This is a test log user_id=2
+[INF] DEMO: Request made to GET /api/v1/users user_id=2
+[INF] DEMO: This is a test log user_id=8
+[INF] DEMO: Channel open performed user_id=2 amount=0.00154000
+[INF] DEMO: Request made to GET /api/v1/users user_id=8
+[DBG] DEMO: More interesting info user_id=2 key=value key_2=4 key_3=value3 key_4="quoted string" key_6=0102030405060708 key_7=010203040506 key_8=3.241000000000 key_9=6
+[INF] DEMO: Channel open performed user_id=8 amount=0.00154000
+[DBG] DEMO: slog helpers user_id=2 key_3=value3 key_4="quoted string" key_5=5
+[INF] DEMO: This is a test log user_id=1
+[DBG] DEMO: More interesting info user_id=8 key=value key_2=4 key_3=value3 key_4="quoted string" key_6=0102030405060708 key_7=010203040506 key_8=3.241000000000 key_9=6
+[INF] DEMO: Request made to GET /api/v1/users user_id=1
+[INF] DEMO: This is a test log user_id=0
+[INF] DEMO: Channel open performed user_id=1 amount=0.00154000
+[INF] DEMO: Request made to GET /api/v1/users user_id=0
+[DBG] DEMO: More interesting info user_id=1 key=value key_2=4 key_3=value3 key_4="quoted string" key_6=0102030405060708 key_7=010203040506 key_8=3.241000000000 key_9=6
+[INF] DEMO: Channel open performed user_id=0 amount=0.00154000
+[DBG] DEMO: slog helpers user_id=1 key_3=value3 key_4="quoted string" key_5=5
+[INF] DEMO: This is a test log user_id=3
+[INF] DEMO: Request made to GET /api/v1/users user_id=3
+[INF] DEMO: Channel open performed user_id=9 amount=0.00154000
+[INF] DEMO: Channel open performed user_id=3 amount=0.00154000
+[INF] DEMO: Channel open performed user_id=5 amount=0.00154000
+[INF] DEMO: Channel open performed user_id=6 amount=0.00154000
+[INF] DEMO: This is a test log user_id=7
+[DBG] DEMO: Hex helpers user_id=2 key_6=0102030405060708 key_7=010203040506
+[DBG] DEMO: Sprintf helpers user_id=2 key_8=3.241000000000 key_9=6
+[DBG] DEMO: Closure user_id=2 key_10="expensive string computation"
+[ERR] DEMO: Static message here user_id=2 err="oh no bad" extra=info
+[DBG] DEMO: slog helpers user_id=8 key_3=value3 key_4="quoted string" key_5=5
+[DBG] DEMO: Hex helpers user_id=8 key_6=0102030405060708 key_7=010203040506
+[INF] DEMO: This is a test log user_id=4
+[DBG] DEMO: Sprintf helpers user_id=8 key_8=3.241000000000 key_9=6
+[INF] DEMO: Request made to GET /api/v1/users user_id=4
+[INF] DEMO: Channel open performed user_id=4 amount=0.00154000
+[DBG] DEMO: Closure user_id=8 key_10="expensive string computation"
+[ERR] DEMO: Static message here user_id=8 err="oh no bad" extra=info
+[DBG] DEMO: Hex helpers user_id=1 key_6=0102030405060708 key_7=010203040506
+[DBG] DEMO: Sprintf helpers user_id=1 key_8=3.241000000000 key_9=6
+[DBG] DEMO: Closure user_id=1 key_10="expensive string computation"
+[ERR] DEMO: Static message here user_id=1 err="oh no bad" extra=info
+[DBG] DEMO: More interesting info user_id=9 key=value key_2=4 key_3=value3 key_4="quoted string" key_6=0102030405060708 key_7=010203040506 key_8=3.241000000000 key_9=6
+[DBG] DEMO: slog helpers user_id=9 key_3=value3 key_4="quoted string" key_5=5
+[DBG] DEMO: More interesting info user_id=3 key=value key_2=4 key_3=value3 key_4="quoted string" key_6=0102030405060708 key_7=010203040506 key_8=3.241000000000 key_9=6
+[DBG] DEMO: slog helpers user_id=3 key_3=value3 key_4="quoted string" key_5=5
+[DBG] DEMO: More interesting info user_id=5 key=value key_2=4 key_3=value3 key_4="quoted string" key_6=0102030405060708 key_7=010203040506 key_8=3.241000000000 key_9=6
+[DBG] DEMO: Hex helpers user_id=3 key_6=0102030405060708 key_7=010203040506
+[DBG] DEMO: slog helpers user_id=5 key_3=value3 key_4="quoted string" key_5=5
+[DBG] DEMO: Sprintf helpers user_id=3 key_8=3.241000000000 key_9=6
+[DBG] DEMO: Closure user_id=3 key_10="expensive string computation"
+[ERR] DEMO: Static message here user_id=3 err="oh no bad" extra=info
+[DBG] DEMO: More interesting info user_id=6 key=value key_2=4 key_3=value3 key_4="quoted string" key_6=0102030405060708 key_7=010203040506 key_8=3.241000000000 key_9=6
+[DBG] DEMO: slog helpers user_id=6 key_3=value3 key_4="quoted string" key_5=5
+[DBG] DEMO: Hex helpers user_id=5 key_6=0102030405060708 key_7=010203040506
+[DBG] DEMO: Hex helpers user_id=6 key_6=0102030405060708 key_7=010203040506
+[INF] DEMO: Request made to GET /api/v1/users user_id=7
+[DBG] DEMO: Sprintf helpers user_id=6 key_8=3.241000000000 key_9=6
+[DBG] DEMO: More interesting info user_id=0 key=value key_2=4 key_3=value3 key_4="quoted string" key_6=0102030405060708 key_7=010203040506 key_8=3.241000000000 key_9=6
+[DBG] DEMO: slog helpers user_id=0 key_3=value3 key_4="quoted string" key_5=5
+[DBG] DEMO: Hex helpers user_id=0 key_6=0102030405060708 key_7=010203040506
+[DBG] DEMO: Sprintf helpers user_id=0 key_8=3.241000000000 key_9=6
+[DBG] DEMO: Closure user_id=0 key_10="expensive string computation"
+[DBG] DEMO: More interesting info user_id=4 key=value key_2=4 key_3=value3 key_4="quoted string" key_6=0102030405060708 key_7=010203040506 key_8=3.241000000000 key_9=6
+[DBG] DEMO: slog helpers user_id=4 key_3=value3 key_4="quoted string" key_5=5
+[DBG] DEMO: Hex helpers user_id=9 key_6=0102030405060708 key_7=010203040506
+[DBG] DEMO: Hex helpers user_id=4 key_6=0102030405060708 key_7=010203040506
+[DBG] DEMO: Sprintf helpers user_id=9 key_8=3.241000000000 key_9=6
+[DBG] DEMO: Closure user_id=9 key_10="expensive string computation"
+[DBG] DEMO: Sprintf helpers user_id=4 key_8=3.241000000000 key_9=6
+[DBG] DEMO: Closure user_id=4 key_10="expensive string computation"
+[INF] DEMO: Channel open performed user_id=7 amount=0.00154000
+[ERR] DEMO: Static message here user_id=4 err="oh no bad" extra=info
+[DBG] DEMO: Closure user_id=6 key_10="expensive string computation"
+[ERR] DEMO: Static message here user_id=6 err="oh no bad" extra=info
+[ERR] DEMO: Static message here user_id=0 err="oh no bad" extra=info
+[DBG] DEMO: Sprintf helpers user_id=5 key_8=3.241000000000 key_9=6
+[DBG] DEMO: Closure user_id=5 key_10="expensive string computation"
+[ERR] DEMO: Static message here user_id=9 err="oh no bad" extra=info
+[DBG] DEMO: More interesting info user_id=7 key=value key_2=4 key_3=value3 key_4="quoted string" key_6=0102030405060708 key_7=010203040506 key_8=3.241000000000 key_9=6
+[DBG] DEMO: slog helpers user_id=7 key_3=value3 key_4="quoted string" key_5=5
+[DBG] DEMO: Hex helpers user_id=7 key_6=0102030405060708 key_7=010203040506
+[ERR] DEMO: Static message here user_id=5 err="oh no bad" extra=info
+[DBG] DEMO: Sprintf helpers user_id=7 key_8=3.241000000000 key_9=6
+[DBG] DEMO: Closure user_id=7 key_10="expensive string computation"
+[ERR] DEMO: Static message here user_id=7 err="oh no bad" extra=info
